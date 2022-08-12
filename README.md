@@ -32,7 +32,8 @@ To create a real-world full stack application
 
 ### Links
 
-- Github Site Repository: (https://github.com/k3vbot/Doctors-Log)
+- Github Site Repository: https://github.com/k3vbot/Doctors-Log
+- Heroku Deployment: https://doctors-log.herokuapp.com/
 
 ## Strategy
 
